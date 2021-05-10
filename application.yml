@@ -1,5 +1,5 @@
 greeting:
-     name: Dineh server c
+     name: Dineh GIT server 
      welcome: Welcome to My App  ${greeting.name} 
 
 number:
