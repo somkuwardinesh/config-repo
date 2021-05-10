@@ -1,0 +1,23 @@
+greeting:
+     name: Dineh GIT server config-client-jb
+     welcome: Welcome to My App  ${greeting.name} 
+
+number:
+  list: One,Two,Three
+
+as:
+ mapData:
+  name: dinesh
+  job: Software
+
+db:
+  connection: "db connection config"
+  host: hostANme
+  port: 1234
+
+management.endpoints.web.exposure.include: "*"
+
+spring:
+  profiles:
+    active: test
+     
