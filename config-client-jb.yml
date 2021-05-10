@@ -1,5 +1,5 @@
 greeting:
-     name: Dineh GIT server config-client-jb updated_1
+     name: Dineh GIT server config-client-jb updated_2
      welcome: Welcome to My App  ${greeting.name} 
 
 number:
